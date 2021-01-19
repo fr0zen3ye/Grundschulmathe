@@ -1,7 +1,7 @@
 //Aufgabe A
 alert("Grundschulmathe");
 
-//Aufgabe B, C, D
+//Aufgabe B, C
 
 //Zufallszahl generieren
 function generateRandomNum() {
