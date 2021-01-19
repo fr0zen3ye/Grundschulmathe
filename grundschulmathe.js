@@ -5,7 +5,7 @@ function generateRandomNum() {
     return Math.floor(Math.random() * 21);
 }
 
-function addition(points = 0, numberOfRuns = 0) {
+function addition() {
     var num1 = generateRandomNum();
     var num2 = generateRandomNum();
     var solution = num1 + num2;
