@@ -1,3 +1,7 @@
+//Aufgabe A
+
+alert("Grundschulmathe");
+
 //Aufgabe B
 
 //Zufallszahl generieren
